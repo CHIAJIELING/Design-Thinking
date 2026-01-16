@@ -1,4 +1,4 @@
-# Design-Thinking
+# Design-Thinking: DrawSense ADHD
 ## 🎯What I done
 For this project, my teammate and I focused on
 -Report: full process on design thinking about digital solution for ADHD
